@@ -11,8 +11,8 @@ The famous **Chicken Invaders** game, developed using jQuery library. jQuery is 
 - jQuery
 
 ## Authors
-**[Amir Mohammed Soliman](https://github.com/Amir-Mohammed)**
-**[Ahmed Mohammed Abbas](https://github.com/AhmedAbbas19)**
-**[Abdallah Ragab Elhoseny](https://github.com/abdallahragab40)**
-**Ahmed Mostafa El-Sayed**
+- **[Amir Mohammed Soliman](https://github.com/Amir-Mohammed)**
+- **[Ahmed Mohammed Abbas](https://github.com/AhmedAbbas19)**
+- **[Abdallah Ragab Elhoseny](https://github.com/abdallahragab40)**
+- **Ahmed Mostafa El-Sayed**
 
